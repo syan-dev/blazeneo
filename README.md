@@ -13,9 +13,26 @@ This repository provides code for paper "***BlazeNeo: Blazing fast polyp segment
 ## Tutorials
 
 ### Installation
+Download our public dataset [BKAI-IGH NeoPolyp-Small](https://www.kaggle.com/c/bkai-igh-neopolyp/) for your own experiments.
+
+```
+pip install -r requirements.txt
+```
+
 ### Model training
+```
+python train.py
+```
+
 ### Model evaluation
+```
+python eval.py
+```
+
 ### Prediction
+```
+python infer.py
+```
 
 ## Quantitative comparison
 
@@ -39,7 +56,7 @@ Qualitative comparison of the proposed method with other baseline methods: (a) i
 
 ## Ackowledgement
 
-This work was funded by Vingroup Innovation Foundation (VINIF) under project code VINIF.2020.DA17. We
+This work was funded by Vingroup Innovation Foundation (VINIF) under project code VINIF.2020.DA17. We thank IGH for collecting and annotating the data.
 
 ## FAQ
 
