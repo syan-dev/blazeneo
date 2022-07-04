@@ -1,6 +1,6 @@
 # BlazeNeo: Blazing fast polyp segmentation and neoplasm detection
 
-This repository provides code for paper "***BlazeNeo: Blazing fast polyp segmentation and neoplasm detection" in IEEE Access, vol. 10, pp. 43669-43684, 2022, doi: 10.1109/ACCESS.2022.3168693.***
+This repository provides code for paper "***BlazeNeo: Blazing fast polyp segmentation and neoplasm detection***" in IEEE Access, vol. 10, pp. 43669-43684, 2022.
 
 ## Features
 
