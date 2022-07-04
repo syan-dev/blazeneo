@@ -67,7 +67,6 @@ Please cite our work if you find it useful:
   title={BlazeNeo: Blazing Fast Polyp Segmentation and Neoplasm Detection}, 
   year={2022},
   volume={10},
-  number={},
   pages={43669-43684},
   doi={10.1109/ACCESS.2022.3168693}}
 ```
