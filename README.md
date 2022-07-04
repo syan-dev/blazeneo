@@ -1,6 +1,6 @@
 # BlazeNeo: Blazing fast polyp segmentation and neoplasm detection
 
-This repository provides code for paper "***BlazeNeo: Blazing fast polyp segmentation and neoplasm detection***"
+This repository provides code for paper "***BlazeNeo: Blazing fast polyp segmentation and neoplasm detection" in IEEE Access, vol. 10, pp. 43669-43684, 2022, doi: 10.1109/ACCESS.2022.3168693.***
 
 ## Features
 
@@ -57,6 +57,20 @@ Qualitative comparison of the proposed method with other baseline methods: (a) i
 ## Ackowledgement
 
 This work was funded by Vingroup Innovation Foundation (VINIF) under project code VINIF.2020.DA17. We thank IGH for collecting and annotating the data.
+
+## Cite
+Please cite our work if you find it useful:
+```
+@ARTICLE{blazeneo2022,
+  author={An, Nguyen S. and Lan, Phan N. and Hang, Dao V. and Long, Dao V. and Trung, Tran Q. and Thuy, Nguyen T. and Sang, Dinh V.},
+  journal={IEEE Access}, 
+  title={BlazeNeo: Blazing Fast Polyp Segmentation and Neoplasm Detection}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={43669-43684},
+  doi={10.1109/ACCESS.2022.3168693}}
+```
 
 ## FAQ
 
